@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/germany/static/css/main.487d6d77.css",
+    "main.js": "/germany/static/js/main.06fb5b49.js",
+    "static/media/fa-solid-900.ttf": "/germany/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/germany/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/germany/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/germany/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/germany/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/DFB_Team_logo.svg.png": "/germany/static/media/DFB_Team_logo.svg.e2db422acb24b35d92b4.png",
+    "static/media/gerd muller.jpg": "/germany/static/media/gerd muller.1fcadca9ae835fa2df7b.jpg",
+    "static/media/bechnbur.jpg": "/germany/static/media/bechnbur.6dc8a1b67bfee34a78d5.jpg",
+    "static/media/romanega.jpg": "/germany/static/media/romanega.d5135a1bdfd7f3298c2f.jpg",
+    "static/media/fa-regular-400.woff2": "/germany/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/OIP.jpeg": "/germany/static/media/OIP.8f999c024c5aaabae1cf.jpeg",
+    "static/media/mathus.jpg": "/germany/static/media/mathus.07abfcc05bf8ad32dc80.jpg",
+    "static/media/valter.jpg": "/germany/static/media/valter.5454c7b634c560c8dacc.jpg",
+    "static/media/ballack.jpg": "/germany/static/media/ballack.d72bb79a888572c6a651.jpg",
+    "static/media/klose.jpeg": "/germany/static/media/klose.287c426b11f2f33760a5.jpeg",
+    "static/media/zailer.jpg": "/germany/static/media/zailer.e5d976507a6a0ff10003.jpg",
+    "static/media/OLIVER.jpeg": "/germany/static/media/OLIVER.cef16d5b30c3cde0c530.jpeg",
+    "static/media/fa-v4compatibility.ttf": "/germany/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/germany/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/germany/index.html",
+    "main.487d6d77.css.map": "/germany/static/css/main.487d6d77.css.map",
+    "main.06fb5b49.js.map": "/germany/static/js/main.06fb5b49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487d6d77.css",
+    "static/js/main.06fb5b49.js"
+  ]
+}
